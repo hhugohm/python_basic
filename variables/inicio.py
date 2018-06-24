@@ -1,3 +1,9 @@
+"""
+comentarios de mas de un renglon
+en PYTHONS
+"""
+
+
 _name="hugo"
 _lastName="hidalgo"
 print('Hola mundo python ' + _name)
@@ -14,3 +20,4 @@ Age = "24"
 print("{} {} is {} years old".format(Fname,Lname,Age))
 print("{0} {1} is {2} years old".format(Fname,Lname,Age))
 print("{Fname} {Lname} is {Age} years old".format(Fname='hugo',Lname='hidalgo',Age=23))
+
